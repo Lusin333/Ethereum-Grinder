@@ -1,4 +1,4 @@
-# Ethereum-GUI-Grinder
+# Ethereum Grinder
 Mining Ethereum is now easier then ever with the Ethereum GUI Grinder! No more using Command Prompt or any of those confusing things you hate so much!
 
 ## Download
@@ -15,5 +15,5 @@ Mining Ethereum is now easier then ever with the Ethereum GUI Grinder! No more u
 ## Follow Lusin
 * 🎥 [Lusin's Youtube](https://www.Youtube.com/c/Lusin333?sub_confirmation=1)
 * 🐦 [Lusin's Twitter](https://Twitter.com/Lusin333)
-* 📸 [Lusin's Instagram](https://Instagram.com/LusinCriminal)
+* 📸 [Lusin's Instagram](https://www.instagram.com/LusinMohinder)
 * 👩‍💻 [Lusin's Github](https://Github.com/Lusin333)
