@@ -19,11 +19,11 @@ Mining Ethereum is now easier then ever with the Ethereum GUI Grinder! No more u
 
 
 ## Follow Lusin333
-* 🎥 [Lusin's Youtube](https://www.Youtube.com/c/Lusin333?sub_confirmation=1)
-* 🐦 [Lusin's Twitter](https://Twitter.com/Lusin333)
-* 📸 [Lusin's Instagram](https://www.instagram.com/Lusin.333)
-* 📽️ [Lusin's TikTok](https://www.tiktok.com/@lusin.333)
-* 👩‍💻 [Lusin's Github](https://Github.com/Lusin333)
+* 🎥 [Lusin333 Youtube](https://www.Youtube.com/c/Lusin333?sub_confirmation=1)
+* 🐦 [Lusin333 Twitter](https://Twitter.com/Lusin333)
+* 📸 [Lusin333 Instagram](https://www.instagram.com/Lusin.333)
+* 📽️ [Lusin333 TikTok](https://www.tiktok.com/@lusin.333)
+* 👩‍💻 [Lusin333 Github](https://Github.com/Lusin333)
 
 
 ***
