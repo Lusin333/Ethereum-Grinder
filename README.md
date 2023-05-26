@@ -24,7 +24,3 @@ Mining Ethereum is now easier then ever with the Ethereum GUI Grinder! No more u
 * 📸 [Lusin333 Instagram](https://www.instagram.com/Lusin.333)
 * 📽️ [Lusin333 TikTok](https://www.tiktok.com/@lusin.333)
 * 👩‍💻 [Lusin333 Github](https://Github.com/Lusin333)
-
-
-***
-![Ethereum Grinder visitor badge](https://visitor-badge.glitch.me/badge?page_id=Ethereum_Grinder.visitor-badge&left_text=Ethereum%20Grinder%20visitors)
